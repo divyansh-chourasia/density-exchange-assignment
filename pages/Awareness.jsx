@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const Awareness = () => {
   return (
-    <section className=" body-font" id="self-awareness-test">
+    <section className=" px-4" id="self-awareness-test">
       <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col items-center border bg-sky-100 rounded-3xl ">
         <div className="lg:flex-grow md:w-full flex flex-col    md:mb-0 items-center text-center">
           <p className=" leading-relaxed">
