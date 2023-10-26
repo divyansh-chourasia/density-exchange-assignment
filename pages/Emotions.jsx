@@ -17,7 +17,7 @@ const Emotions = () => {
   };
 
   return (
-    <section className=" body-font h-fit" id="emotions">
+    <section className=" px-6 h-fit" id="emotions">
       <div className="container mx-auto flex px-10 py-12 md:flex-row flex-col items-center border h-4/5 bg-violet-100 rounded-3xl">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <motion.div {...animations.div}>
