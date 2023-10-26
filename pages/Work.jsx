@@ -16,7 +16,7 @@ const Work = () => {
   };
 
   return (
-    <section className=" body-font " id="work-with-us">
+    <section className=" px-6 " id="work-with-us">
       <div className="container px-5 py-12 mx-auto flex flex-wrap border bg-violet-50 rounded-3xl">
         <div className="flex flex-wrap -m-4">
           <div className="p-4 lg:w-1/2 md:w-full">
