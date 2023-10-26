@@ -12,7 +12,7 @@ const Manifesto = () => {
     },
   };
   return (
-    <section className=" body-font h-fit" id="manifesto">
+    <section className=" px-6 h-fit" id="manifesto">
       <div className="container mx-auto flex px-10   flex-col  border h-4/5 bg-orange-50 rounded-3xl">
         <div className="flex justify-end gap-10 pb-5">
           <img
